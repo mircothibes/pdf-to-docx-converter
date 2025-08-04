@@ -15,33 +15,40 @@ A simple and user-friendly desktop application to batch convert `.pdf` files to 
 ## 🖼️ Screenshots
 
 ### Application Icon
-<img src="https://github.com/mircothibes/pdf-to-docx-converter/raw/main/docs/images/icon.png" width="80">
+<img src="docs/images/icon.png" width="80">
 
 ### Main Interface
-<img src="https://github.com/mircothibes/pdf-to-docx-converter/raw/main/docs/images/interface.png" width="300">
+<img src="docs/images/interface.png" width="300">
 
 ### Success Message
-<img src="https://github.com/mircothibes/pdf-to-docx-converter/raw/main/docs/images/success.png" width="250">
+<img src="docs/images/success.png" width="250">
 
 ---
 
 ## 📁 Project Structure
 
 pdf-to-docx-converter/
-├── inputs_pdfs/ # Folder for input files (optional)
-├── outputs_docx/ # Output folder for .docx files
-├── logs/ # Logs are saved here
+│
 ├── src/
 │ └── my_package/
-│ ├── main.py # PDF conversion logic
-│ └── gui.py # GUI logic
+│ ├── gui.py
+│ └── main.py
+│
+├── inputs_pdfs/
+├── outputs_docx/
+├── logs/
+├── dist/
+│ └── gui.exe
+│
 ├── scripts/
-│ └── create_shortcut.ps1 # Powershell shortcut generator
-├── dist/ # Compiled executable via PyInstaller
-├── icon.ico # Custom icon for the executable
-├── setup.py # Packaging config
-├── pyproject.toml # Optional project config
-└── README.md # You are here
+│ └── create_shortcut.ps1
+│
+├── icon.ico
+├── README.md
+├── pyproject.toml
+├── setup.py
+├── requirements.txt
+└── .gitignore
 
 
 ---
