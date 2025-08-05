@@ -15,18 +15,18 @@ A simple and user-friendly desktop application to batch convert `.pdf` files to 
 ## 🖼️ Screenshots
 
 ### Application Icon
-<img src="docs/images/icon.png" width="80">
+<img src="https://github.com/mircothibes/pdf-to-docx-converter/raw/main/docs/images/icon.png" width="80">
 
 ### Main Interface
-<img src="docs/images/interface.png" width="300">
+<img src="https://github.com/mircothibes/pdf-to-docx-converter/docs/images/interface.png" width="300">
 
 ### Success Message
-<img src="docs/images/success.png" width="250">
+<img src="https://github.com/mircothibes/pdf-to-docx-converter/docs/images/success.png" width="250">
 
 ---
 
 ## 📁 Project Structure
-
+```
 pdf-to-docx-converter/
 │
 ├── src/
@@ -49,7 +49,7 @@ pdf-to-docx-converter/
 ├── setup.py
 ├── requirements.txt
 └── .gitignore
-
+```
 
 ---
 
