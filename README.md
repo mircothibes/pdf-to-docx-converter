@@ -20,10 +20,10 @@ A simple and user-friendly desktop application to batch convert `.pdf` files to 
 <img src="https://github.com/mircothibes/pdf-to-docx-converter/raw/main/docs/icon.png" width="80">
 
 ### Main Interface  
-<img src="https://github.com/mircothibes/pdf-to-docx-converter/raw/main/docs/interface.png" width="300">
+<img src="https://github.com/mircothibes/pdf-to-docx-converter/raw/main/docs/interface.png" width="100">
 
 ### Success Message  
-<img src="https://github.com/mircothibes/pdf-to-docx-converter/raw/main/docs/success.png" width="250">
+<img src="https://github.com/mircothibes/pdf-to-docx-converter/raw/main/docs/success.png" width="100">
 
 ---
 
