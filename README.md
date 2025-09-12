@@ -45,7 +45,12 @@ pdf-to-docx-converter/
 ├── setup.py                 # Packaging config
 ├── pyproject.toml           # Optional project config
 └── README.md                # You are here
-🛠️ Installation (Executable)
+
+```
+
+---
+
+## 🛠️ Installation (Executable)
 Download the latest .zip release from the Releases section.
 
 Extract all contents.
@@ -61,30 +66,31 @@ Python 3.11+
 Virtual environment (recommended)
 
 Installation
-bash
-Copiar
-Editar
+```bash
+
 git clone https://github.com/mircothibes/pdf-to-docx-converter.git
 cd pdf-to-docx-converter
 python -m venv .venv
 .venv\Scripts\activate
 pip install -e .
-Run
-bash
-Copiar
-Editar
-pdf2docx-gui
-📦 Build Executable (PyInstaller)
+```
+
+---
+
+## 📦 Build Executable (PyInstaller)
 To generate a .exe version for Windows:
 
-bash
-Copiar
-Editar
 pyinstaller --noconsole --onefile --icon=icone.ico src/my_package/gui.py
 The output .exe will be placed in the dist/ folder.
+
+---
+
+📄 License
+This project is licensed under the MIT License.
+
+---
 
 👤 Author
 Developed by Marcos Vinicius Thibes Kemer
 
-📄 License
-This project is licensed under the MIT License.
+---
