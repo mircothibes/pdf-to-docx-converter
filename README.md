@@ -73,7 +73,7 @@ Python 3.11+
 
 Virtual environment (recommended)
 
-Installation
+#Installation
 ```bash
 
 git clone https://github.com/mircothibes/pdf-to-docx-converter.git
@@ -93,12 +93,12 @@ The output .exe will be placed in the dist/ folder.
 
 ---
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License.
 
 ---
 
-👤 Author
+## 👤 Author
 Developed by Marcos Vinicius Thibes Kemer
 
 ---
