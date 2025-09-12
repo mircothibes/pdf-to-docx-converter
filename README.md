@@ -6,8 +6,6 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 
-# 🧩 PDFtoDOCX Converter
-
 A simple and user-friendly desktop application to batch convert `.pdf` files to `.docx` format using a clean graphical interface built with **Tkinter**.
 
 ---
