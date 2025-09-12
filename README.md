@@ -1,5 +1,5 @@
 <img src="https://github.com/mircothibes/pdf-to-docx-converter/raw/main/icone.ico" width="80"> 
-## PDFtoDOCX Converter
+## 🧩 PDFtoDOCX Converter
 
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue)
