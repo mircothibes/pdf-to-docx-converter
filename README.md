@@ -1,4 +1,14 @@
-# 🧩 PDFtoDOCX Converter
+<img src="https://github.com/mircothibes/pdf-to-docx-converter/raw/main/icone.ico" width="80"> 
+## 🧩 PDFtoDOCX Converter
+
+---
+
+![Python](https://img.shields.io/badge/Python-3.11+-blue)
+![GUI](https://img.shields.io/badge/GUI-Tkinter-lightgrey)
+![Build](https://img.shields.io/badge/Build-PyInstaller-brightgreen)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 A simple and user-friendly desktop application to batch convert `.pdf` files to `.docx` format using a clean graphical interface built with **Tkinter**.
 
@@ -20,10 +30,10 @@ A simple and user-friendly desktop application to batch convert `.pdf` files to 
 <img src="https://github.com/mircothibes/pdf-to-docx-converter/raw/main/docs/icon.png" width="80">
 
 ### Main Interface  
-<img src="https://github.com/mircothibes/pdf-to-docx-converter/raw/main/docs/interface.png" width="300">
+<img src="https://github.com/mircothibes/pdf-to-docx-converter/raw/main/docs/Interface.png" width="300">
 
 ### Success Message  
-<img src="https://github.com/mircothibes/pdf-to-docx-converter/raw/main/docs/success.png" width="250">
+<img src="https://github.com/mircothibes/pdf-to-docx-converter/raw/main/docs/Success.png" width="250">
 
 ---
 
@@ -65,7 +75,7 @@ Python 3.11+
 
 Virtual environment (recommended)
 
-Installation
+#Installation
 ```bash
 
 git clone https://github.com/mircothibes/pdf-to-docx-converter.git
@@ -85,12 +95,12 @@ The output .exe will be placed in the dist/ folder.
 
 ---
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License.
 
 ---
 
-👤 Author
+## 👤 Author
 Developed by Marcos Vinicius Thibes Kemer
 
 ---
