@@ -111,7 +111,6 @@ The executable will be available in the dist/ folder.
 ## 👤 Author
 
 Developed by Marcos Vinicius Thibes Kemer
-
 LinkedIn: Marcos Vinicius Thibes Kemer
 
 ---
